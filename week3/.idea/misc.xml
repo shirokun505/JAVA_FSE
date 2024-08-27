@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-1/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-2/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-3/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-4/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-5/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-6/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-7/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-8/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-9/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeManagementSystemEx-10/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
